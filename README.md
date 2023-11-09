@@ -100,9 +100,5 @@ Publish the website in the given URL.
 ![image](https://github.com/Selvakumar525/cover/assets/120643262/7cb311af-3358-49fb-bd5c-3a3311121e33)
 
 
-
-## HTML VALIDATOR:
-
-
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
