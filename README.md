@@ -97,6 +97,7 @@ Publish the website in the given URL.
 ~~~
 
 ## OUTPUT:
+![WhatsApp Image 2023-11-16 at 10 49 21](https://github.com/Selvakumar525/cover/assets/120643262/a97b6976-eb7d-4688-b653-532c1a255dfe)
 ![image](https://github.com/Selvakumar525/cover/assets/120643262/7cb311af-3358-49fb-bd5c-3a3311121e33)
 
 
